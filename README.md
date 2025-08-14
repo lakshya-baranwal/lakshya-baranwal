@@ -1,6 +1,6 @@
 - Hi, I’m Lakshya Baranwal
 - Pursuing B.Tech. in Information Technology from Harcourt Butler Technical University, Kanpur
-- I’m interested in core computer science, machine learning and competitive programming and maths. 
+- I’m interested in core computer science, machine learning, competitive programming and maths. 
 - How to reach me : lakshyaabaranwal@gmail.com
 - Pronouns: he/him
 
