@@ -1,6 +1,6 @@
 # About Me
 <!-- ![](https://komarev.com/ghpvc/?username=lakshya-baranwal&color=blue) -->
-Hi, I’m **Lakshya Baranwal** !        
+Hi, I’m **Lakshya Baranwal** !      
 - **ICPC Regionalist**  
 - **BitNBuild'25 Finalist**  
 - Pursuing **B.Tech. in Information Technology** from **Harcourt Butler Technical University, Kanpur**    
@@ -38,7 +38,7 @@ Hi, I’m **Lakshya Baranwal** !
 ---
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lakshya-baranwal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=lakshya-baranwal&theme=dark&hide_border=false&include_all_commits=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakshya-baranwal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-baranwal&theme=dark&hide_border=false&layout=compact)
 
