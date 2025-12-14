@@ -1,7 +1,7 @@
 # About Me
 <!-- ![](https://komarev.com/ghpvc/?username=lakshya-baranwal&color=blue) -->
 Hi, I’m **Lakshya Baranwal** !      
-- **ICPC Regionalist**
+- **3X ICPC Regionalist**
 - **SquareHacks Finalist**  
 - **BitNBuild'25 Finalist**  
 - Pursuing **B.Tech. in Information Technology** from **Harcourt Butler Technical University, Kanpur**    
