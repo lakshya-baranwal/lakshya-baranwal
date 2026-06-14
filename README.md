@@ -39,7 +39,9 @@ Hi, I’m **Lakshya Baranwal** !
 
 # GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=lakshya-baranwal&theme=dark&hide_border=false&include_all_commits=true)<br/> -->
-![Snake](https://raw.githubusercontent.com/lakshya-baranwal/profile-assets/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/lakshya-baranwal/profile-assets/output/github-contribution-grid-snake.svg)
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakshya-baranwal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-baranwal&theme=dark&hide_border=false&layout=compact)
 
