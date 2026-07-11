@@ -13,7 +13,7 @@ Hi, I’m **Lakshya Baranwal** !
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-baranwal/) 
 [![ICPC](https://img.shields.io/badge/ICPC-0066CC)](https://icpc.global/ICPCID/JMV1S47EJ9MX)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23f5f5f5.svg?logo=About.me&logoColor=black)](https://lakshya-portfolio-ten.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23f5f5f5.svg?logo=About.me&logoColor=black)](https://lakshyaa-portfolio.vercel.app/)
 
 ---
 
